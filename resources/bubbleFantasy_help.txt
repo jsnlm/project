@@ -1,0 +1,32 @@
+Bubble Shooter: Instructions & How to Play
+
+______
+
+GOAL:The goal of the game is to remove all the coloured balls on screen. 
+You will control and shoot a randomly generated coloured ball at the
+bottom towards clusters of 2 or more adjacent balls of the same colour.
+The same coloured balls must be connected diagonally, horizontally,
+and/or vertically and must all be touching each another. When the white 
+bar reaches the right end of the screen, the balls will shift down, and
+when the lowermost ball(s) pass the white line, then the game is over.
+
+______
+
+HOW TO PLAY: Use your mouse to control the direction of the coloured 
+ball near the bottom. The direction is indicated by the arrow icon. Once 
+you are ready to shoot it, click your left mouse key to launch the ball.
+
+______
+
+SCORING: Each coloured ball removed counts as 100 points. Based on 
+the level you chose, the score multiplier will be different.
+
+Beginner: x1, Easy: x1, Normal: x2, Hard: x4, Impossible: x8
+
+Time Bonus is added if you remove all the balls on the screen. The 
+shorter time it took to complete, the higher the time bonus.
+
+______
+
+You can view help anytime during game play through pause menu. Press 
+Esc while playing to open pause menu.
